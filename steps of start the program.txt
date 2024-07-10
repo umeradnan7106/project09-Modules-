@@ -1,0 +1,7 @@
+// 1. package.json (cmd: npm init --yes)
+// 2. npm i inquirer (node modules file)
+// 3. npm i --save-dev @type/inquirer    (in the error)
+// 4. on line no. 14 in tsconfig change "target": "es2022", 
+// 5. on line no. 28 in tsconfig change "module": "NodeNext", 
+// 6. on line no. 30 in tsconfig change "moduleResolution": "NodeNext", 
+// 7. Add "type": "modules", in line no. 6 in package.json
